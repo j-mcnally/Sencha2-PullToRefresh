@@ -32,3 +32,9 @@ onPullRefresh: function() {
 }
 
 ```
+
+Shout Outs
+==========
+Based on VinylFox's Sencha Touch 1.x extension
+
+https://github.com/VinylFox/Ext.ux.touch.ListPullRefresh
