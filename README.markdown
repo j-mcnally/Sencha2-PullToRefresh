@@ -1,3 +1,6 @@
+@tablefor2
+WORKS WITH v2.0.1.1
+
 THIS WORKS WITH PR2 & PR3
 
 
